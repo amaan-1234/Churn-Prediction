@@ -122,7 +122,7 @@ EDA included:
 
 
 │
-├── M_Churn_Prediction.ipynb    # Main notebook
+├── Churn_Prediction (1).ipynb    # Main notebook
 ├── README.md                   # Project documentation
 
 
